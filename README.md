@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Carlos Eduardo Thomas 👋
 
 <!--
 **Thomas164-cadu/Thomas164-cadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
