@@ -1,11 +1,14 @@
 ### Hi there, I am Carlos Eduardo Thomas 👋
 
+🔭 I’m currently working on Blenduca Company as Software and Management consultant
+
+🌱 I’m currently learning about C# API's and Next.js projects
 <!--
 **Thomas164-cadu/Thomas164-cadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
