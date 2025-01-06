@@ -1,6 +1,6 @@
 ### Hi there, I am Carlos Eduardo Thomas 👋
 
-🔭 I’m currently working on Blenduca Company as Software and Management consultant. I'm also working as a Software Developer.
+🔭 I’m currently working on Blenduca Company as Tech Lead
 <!--
 **Thomas164-cadu/Thomas164-cadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
